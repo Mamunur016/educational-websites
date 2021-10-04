@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
 import { Card, Col, Container, Image, Row } from 'react-bootstrap';
@@ -7,11 +7,14 @@ import './Instructors.css'
 
 const Instructors = () => {
     const [instructors, setInstructors] = useState([]);
+
+    // fetch the data
     useEffect(() => {
         fetch('./instructor.JSON')
             .then(res => res.json())
             .then(data => setInstructors(data))
-    }, [])
+    }, []);
+
     return (
         <div className='instructor-container'>
             <Container>
@@ -32,6 +35,7 @@ const Instructors = () => {
         </div>
     );
 };
+// single instructor Component
 const Instructor = (props) => {
     const { name, job, img, star, details, starCount } = props.instructor;
     return (

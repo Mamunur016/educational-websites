@@ -10,6 +10,8 @@ const Services = () => {
     const [courses, setCourses] = useState([]);
     const [cart, setCart] = useState([]);
     const [displaycart, setDisplayCart] = useState([]);
+
+    // fetch the data
     useEffect(() => {
         fetch('./courses.JSON')
             .then(res => res.json())

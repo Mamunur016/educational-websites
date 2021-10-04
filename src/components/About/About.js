@@ -5,7 +5,7 @@ import './About.css';
 const About = () => {
     return (
         <div>
-
+            {/* about text */}
             <div className='about-text pt-5 pb-5 text-center bg-light'>
                 <Container>
                     <h4>About GoStudy</h4>
@@ -13,6 +13,7 @@ const About = () => {
                 </Container>
 
             </div>
+            {/* mission */}
             <div className='mission pt-5 pb-5' style={{ backgroundColor: "#E1EBED" }}>
                 <Container>
                     <Row>
@@ -60,6 +61,7 @@ const About = () => {
                     </Row>
                 </Container>
             </div>
+            {/* vission-future */}
             <div className='vission-future pt-5 pb-5 bg-light ' >
                 <Container>
                     <Row>
@@ -92,6 +94,7 @@ const About = () => {
                     </Row>
                 </Container>
             </div>
+            {/* about-bottom */}
             <div className='about-bottom pb-5 pt-5 text-center' style={{ backgroundColor: "#E1EBED" }}>
                 <Container>
                     <p>Whether you are a recent graduate trying to land your first job, or a mid-level professional eager for advancement, or just a person wanting to learn about an emerging subject, GoStudy is and will be for everyone.

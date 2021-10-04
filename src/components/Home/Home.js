@@ -6,11 +6,12 @@ import useCourses from '../../Hooks/useCourses';
 
 
 const Home = () => {
+    // useCourses function
     let [courses] = useCourses();
-    courses = courses.slice(0, 6);
+    courses = courses.slice(0, 6); /// array slice
     return (
         <div className='home'>
-
+            {/* welcome text */}
             <div className="welcome-text  text-center pt-5 pb-5">
                 <h1> WELCOME TO GoStudy</h1>
                 <h6> We Are StudyLab An Online Learning Center</h6>
@@ -30,6 +31,7 @@ const Home = () => {
                     />
                 </InputGroup>
             </Container>
+            {/* info area */}
             <div className='info pt-5 pb-5 bg-light'>
                 <Container>
                     <Row>
@@ -71,6 +73,7 @@ const Home = () => {
                     </Row>
                 </Container>
             </div>
+            {/* home images */}
             <div className='pt-5 pb-5'>
                 <Container>
                     <Row>
@@ -97,7 +100,7 @@ const Home = () => {
                     </Row>
                 </Container>
             </div>
-
+            {/* learn section */}
             <div className="learn-section pt-5 pb-5 text-center bg-light">
                 <Container>
                     <span className='text-primary fw-bold'><small>START LEARNING TODAY</small></span>
@@ -123,6 +126,7 @@ const Home = () => {
     );
 };
 
+// cour components
 
 const Cour = (props) => {
     const { category, title, img, free, instructor, key } = props.course;

@@ -1,8 +1,20 @@
-# Getting Started with Create React App
+# Getting Started with GoStudy
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was deploy netlify website(https://education-f71e93.netlify.app/)
+
+## Available Feature
+### In this project you can find  learn-Python instructore
+### In this project you can find js development instructore.
+### In this project you can find best development teaching instructore.
+### In this project you can find adove photoshop teaching instuctore.
+### This project help you to find good Teacher. this project show the techers techings  experience and how rate there work in student.
+
+
 
 ## Available Scripts
+
+
 
 In the project directory, you can run:
 

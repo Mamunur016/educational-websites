@@ -47,6 +47,7 @@ const Footer = () => {
                     </Col>
                 </Row>
                 <hr />
+                {/* foooter bottom */}
                 <Row>
                     <Col md={6}>Designed & Developed by GoStudy</Col>
                     <Col md={6} >

@@ -2,6 +2,7 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from '@fortawesome/free-solid-svg-icons';
 import './Cart.css'
+import { Link } from 'react-router-dom';
 
 const Cart = (props) => {
 
@@ -33,9 +34,9 @@ const Cart = (props) => {
             </div>
 
             <h4>Total Course Free: $ {total}</h4>
-            <div className="btn">
+            <Link to='/thumbs' className="btn">
                 <button>Buy Now</button>
-            </div>
+            </Link>
 
 
         </div>

@@ -6,11 +6,12 @@ const OurTeam = () => {
 
     const [members, setMembers] = useState([]);
 
+    // fetch the data 
     useEffect(() => {
         fetch('./ourteam.json')
             .then(res => res.json())
             .then(data => setMembers(data));
-    }, [])
+    }, []);
 
     return (
         <div className='our-team pt-5 pb-5 bg-light'>

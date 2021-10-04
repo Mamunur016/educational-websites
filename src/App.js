@@ -10,7 +10,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Footer from './components/Footer/Footer';
 import OurTeam from './components/OurTeam/OurTeam';
 import Instructors from './components/Instructors/Instructors';
-import CourseDetails from './components/CourseDetails/CourseDetails';
+import Thumbs from './components/Thumbs/Thumbs';
+// import CourseDetails from './components/CourseDetails/CourseDetails';
 
 function App() {
   return (
@@ -37,6 +38,9 @@ function App() {
           </Route>
           <Route path='/instructor'>
             <Instructors></Instructors>
+          </Route>
+          <Route path='/thumbs'>
+            <Thumbs></Thumbs>
           </Route>
           {/* <Route exact path='/services/:servicesKey'>
             <CourseDetails></CourseDetails>

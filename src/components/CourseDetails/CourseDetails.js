@@ -9,9 +9,7 @@ const CourseDetails = () => {
 
     return (
         <div>
-            {
-                courses[0].key
-            }
+            <h1>gh</h1>
 
         </div>
     );

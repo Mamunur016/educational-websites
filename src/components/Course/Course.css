@@ -1,11 +1,3 @@
-.course:hover {
-    
-    box-shadow: 4px 4px 7px darkslategrey;
-    border-radius: 10px;
-    border: 1px solid blueviolet;
-    
-  }
-
 /* button */
 .btn-regular{
     background-color: goldenrod;
