@@ -1,19 +1,44 @@
 import React from 'react';
-import { Card, Col, Container, Row } from 'react-bootstrap';
+import { Card, Col, Container, Image, Row } from 'react-bootstrap';
+import './About.css';
 
 const About = () => {
     return (
         <div>
-            <Container>
-                <div className='about-text'>
+
+            <div className='about-text pt-5 pb-5 text-center bg-light'>
+                <Container>
                     <h4>About GoStudy</h4>
                     <p>GoStudy is where smart and enthusiastic Bangladeshi people, who are lifelong learners, come to get the skills they need and to transform their lives as they want. We are a community of enthusiastic learners united in a shared objective of life transformation through self-learning.</p>
+                </Container>
 
-                </div>
-                <div>
+            </div>
+            <div className='mission pt-5 pb-5' style={{ backgroundColor: "#E1EBED" }}>
+                <Container>
                     <Row>
                         <Col md={6}>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, molestias asperiores. Totam ea sed ut molestiae voluptatum nostrum repellendus alias! Velit temporibus inventore adipisci aut dolores quam. Dignissimos, esse beatae.</p>
+                            <Row xs={1} md={3} className="g-3">
+                                <Col >
+                                    <Image src='https://bohubrihi.com/wp-content/uploads/2018/03/Tulie-150x150.jpg' rounded fluid></Image>
+                                </Col>
+                                <Col >
+                                    <Image src='https://bohubrihi.com/wp-content/uploads/2018/02/Bohubrihi-Discussion-Forums-150x150.jpg' rounded fluid></Image>
+                                </Col>
+                                <Col >
+                                    <Image src='https://bohubrihi.com/wp-content/uploads/2017/07/woman-typing-writing-windows-compressed-150x150.jpg' rounded fluid></Image>
+                                </Col>
+                                <Col >
+                                    <Image src='https://bohubrihi.com/wp-content/uploads/2018/09/Bohubrihi-Bangla-Online-Courses-150x150.jpg' rounded fluid></Image>
+                                </Col>
+                                <Col >
+                                    <Image src='https://bohubrihi.com/wp-content/uploads/2017/05/ebrtyyjwpry-radek-grzybowski-150x150.jpg' rounded fluid></Image>
+                                </Col>
+                                <Col >
+                                    <Image src='https://bohubrihi.com/wp-content/uploads/2018/02/Bohubrihi-Discussion-Forums-150x150.jpg' rounded fluid></Image>
+                                </Col>
+
+
+                            </Row>
                         </Col>
                         <Col md={6}>
                             <Card style={{
@@ -33,8 +58,10 @@ const About = () => {
 
                         </Col>
                     </Row>
-                </div>
-                <div>
+                </Container>
+            </div>
+            <div className='vission-future pt-5 pb-5 bg-light ' >
+                <Container>
                     <Row>
                         <Col md={6}>
                             <Card style={{ backgroundColor: "#6BA5A2", borderRadius: '5px' }}>
@@ -63,13 +90,16 @@ const About = () => {
 
                         </Col>
                     </Row>
-                </div>
-                <div>
+                </Container>
+            </div>
+            <div className='about-bottom pb-5 pt-5 text-center' style={{ backgroundColor: "#E1EBED" }}>
+                <Container>
                     <p>Whether you are a recent graduate trying to land your first job, or a mid-level professional eager for advancement, or just a person wanting to learn about an emerging subject, GoStudy is and will be for everyone.
 
                         Just go to the course of your choice and hit the ‘enroll’ button. That’s how easy it is to start learning on GoStudy!</p>
-                </div>
-            </Container>
+                </Container>
+            </div>
+
         </div>
     );
 };

@@ -9,6 +9,8 @@ import Services from './components/Services/Services';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Footer from './components/Footer/Footer';
 import OurTeam from './components/OurTeam/OurTeam';
+import Instructors from './components/Instructors/Instructors';
+import CourseDetails from './components/CourseDetails/CourseDetails';
 
 function App() {
   return (
@@ -26,12 +28,19 @@ function App() {
           <Route path='/about'>
             <About></About>
           </Route>
-          <Route path='/services'>
+          <Route exact path='/services'>
             <Services></Services>
           </Route>
           <Route path='/ourteam'>
             <OurTeam></OurTeam>
+
           </Route>
+          <Route path='/instructor'>
+            <Instructors></Instructors>
+          </Route>
+          {/* <Route exact path='/services/:servicesKey'>
+            <CourseDetails></CourseDetails>
+          </Route> */}
           <Route path=''>
             <NotFound></NotFound>
           </Route>

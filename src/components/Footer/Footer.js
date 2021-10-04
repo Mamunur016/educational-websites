@@ -9,7 +9,7 @@ const Footer = () => {
             <Container>
                 <Row>
                     <Col xs={6} md={3}>
-                        <h4>StudyLab</h4>
+                        <h4>GoStudy</h4>
                         <p>We support programs that create advancement opportunities for people.</p>
                     </Col>
                     <Col xs={6} md={3}>
@@ -21,7 +21,7 @@ const Footer = () => {
                         <p>  <Link to='/ourteam' className='nav-item-footer'>
                             Our Team
                         </Link></p>
-                        <p>  <Link to='/about' className='nav-item-footer'>
+                        <p>  <Link to='/instructor' className='nav-item-footer'>
                             Instructor
                         </Link></p>
 
@@ -48,8 +48,13 @@ const Footer = () => {
                 </Row>
                 <hr />
                 <Row>
-                    <Col md={6}>Designed & Developed by Raistheme</Col>
-                    <Col md={6}>© Copyright 2021 Gostudy All rights reserved.</Col>
+                    <Col md={6}>Designed & Developed by GoStudy</Col>
+                    <Col md={6} >
+                        <p className="text-end">
+                            © Copyright 2021 Gostudy All rights reserved.
+                        </p>
+
+                    </Col>
                 </Row>
             </Container>
         </div>

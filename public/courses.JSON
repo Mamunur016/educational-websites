@@ -1,0 +1,650 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "category": "2021 Complete Python Bootcamp From Zero to Hero in Python",
+        "title": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+        "img": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
+        "free": 30,
+        "requirements": [
+            "Access to a computer with an internet connection."
+        ],
+        "learn": [
+            "Learn to use Python professionally, learning both Python 2 and Python 3!",
+            "Create games with Python, like Tic Tac Toe and Blackjack!",
+            "Learn advanced Python features, like the collections module and how to work with timestamps",
+            "Learn to use Object Oriented Programming with classes!",
+            "Understand complex topics, like decorators",
+            "Understand how to use both the Jupyter Notebook and create .py files",
+            "Get an understanding of how to create GUIs in the Jupyter Notebook system!",
+            "Build a complete understanding of Python from the ground up!"
+        ],
+        "instructor": {
+            "name": "Jose Portilla",
+            "job": "Head of Data Science, Pierian Data Inc.",
+            "img": "https://img-c.udemycdn.com/user/200_H/9685726_67e7_4.jpg",
+            "star": 4.6,
+            "starCount": 2223,
+            "details": "  Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics, materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc. and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more. Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV."
+        }
+    },
+    {
+        "key": "B01LZ2WZGH",
+        "category": "Python for Data Science and Machine Learning Bootcamp",
+        "title": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more",
+        "img": "https://img-c.udemycdn.com/course/240x135/903744_8eb2.jpg",
+        "free": 40,
+        "requirements": [
+            "Some programming experience",
+            "Admin permissions to download files"
+        ],
+        "learn": [
+            " Use Python for Data Science and Machine Learning",
+            "Implement Machine Learning Algorithms ",
+            " Use Spark for Big Data Analysis",
+            "Learn to use NumPy for Numerical Data ",
+            "Learn to use Matplotlib for Python Plotting ",
+            "Learn to use Seaborn for statistical plots ",
+            "K-Means Clustering ",
+            "Logistic Regression",
+            "Linear Regression",
+            "Random Forest and Decision Trees",
+            "Natural Language Processing and Spam Filters",
+            " Neural Networks "
+        ],
+        "instructor": {
+            "name": "Jose Portilla",
+            "job": "Head of Data Science, Pierian Data Inc.",
+            "img": "https://img-c.udemycdn.com/user/200_H/9685726_67e7_4.jpg",
+            "star": 4.7,
+            "starCount": 2122,
+            "details": "  Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics, materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc. and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more. Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV."
+        }
+    },
+    {
+        "key": "B01K1IO3QW",
+        "category": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+        "title": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+        "img": "https://img-c.udemycdn.com/course/240x135/950390_270f_3.jpg",
+        "free": 35,
+        "requirements": [
+            "Just some high school mathematics level."
+        ],
+        "learn": [
+            "Learn to use Python professionally, learning both Python 2 and Python 3!",
+            "Create games with Python, like Tic Tac Toe and Blackjack!",
+            "Learn advanced Python features, like the collections module and how to work with timestamps",
+            "Learn to use Object Oriented Programming with classes!",
+            "Understand complex topics, like decorators",
+            "Understand how to use both the Jupyter Notebook and create .py files",
+            "Get an understanding of how to create GUIs in the Jupyter Notebook system!",
+            "Build a complete understanding of Python from the ground up!"
+        ],
+        "instructor": {
+            "name": "Kirill Eremenko",
+            "job": "Data Scientist",
+            "img": "https://img-c.udemycdn.com/user/200_H/2364054_83cd_5.jpg",
+            "star": 4.5,
+            "starCount": 100,
+            "details": "My name is Kirill Eremenko and I am super-psyched that you are reading this! Professionally, I come from the Data Science consulting space with experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and since starting on Udemy I have passed on my knowledge to thousands of aspiring data scientists.From my courses you will straight away notice how I combine my real-life experience and academic background in Physics and Mathematics to deliver professional step-by-step coaching in the space of Data Science. One of the strongest sides of my teaching style is that I focus on intuitive explanations, so you can be sure that you will truly understand even the most complex topics.To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!"
+        }
+    },
+    {
+        "key": "B01F4ZG68A",
+        "category": "Learning Python for Data Analysis and Visualization",
+        "title": "Learn python and how to use it to analyze,visualize and present data. Includes tons of sample code and hours of video!",
+        "img": "https://img-c.udemycdn.com/course/240x135/396876_cc92_7.jpg",
+        "free": 45,
+        "requirements": [
+            ""
+        ],
+        "learn": [
+            " Have an intermediate skill level of Python programming.",
+            "Use the Jupyter Notebook Environment.",
+            "Use the numpy library to create and manipulate arrays.",
+            "Use the pandas module with Python to create and structure data.",
+            "Learn how to work with various data formats within python, including: JSON,HTML, and MS Excel Worksheets.",
+            "Create data visualizations using matplotlib and the seaborn modules with python.",
+            "Have a portfolio of various data analysis projects."
+        ],
+        "instructor": {
+            "name": "Jose Portilla",
+            "job": "Head of Data Science, Pierian Data Inc.",
+            "img": "https://img-c.udemycdn.com/user/200_H/9685726_67e7_4.jpg",
+            "star": 4.9,
+            "starCount": 4562,
+            "details": "  Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics, materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc. and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more. Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV."
+        }
+    },
+    {
+        "key": "B01M18UZF5",
+        "category": "Python and Django Full Stack Web Developer Bootcamp",
+        "title": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
+        "img": "https://img-c.udemycdn.com/course/240x135/822444_a6db.jpg",
+        "free": 60,
+        "requirements": [
+            "A computer with an internet connection and download privileges"
+        ],
+        "learn": [
+            " Create a fully functional web site using the Full-Stack with Django 1.11",
+            "Learn how to use HTML to create website content",
+            "Use CSS to create beautifully styled sites",
+            "Learn how to take advantage of Bootstrap to quickly style sites",
+            "Use Javascript to interact with sites on the Front-End",
+            "Learn how to use jQuery to quickly work with the DOM",
+            "Understand HTTP requests",
+            "Create fantastic landing pages",
+            "Learn the power of Python to code out your web applications",
+            "Use Django as a back end for the websites",
+            "Implement a full Models-Views-Templates structure for your site"
+        ],
+        "instructor": {
+            "name": "Jose Portilla",
+            "job": "Head of Data Science, Pierian Data Inc.",
+            "img": "https://img-c.udemycdn.com/user/200_H/9685726_67e7_4.jpg",
+            "star": 4.6,
+            "starCount": 654,
+            "details": "  Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics, materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc. and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more. Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV."
+        }
+    },
+    {
+        "key": "B01DBGVB7K",
+        "category": "100 Days of Code - The Complete Python Pro Bootcamp for 2021",
+        "title": "Master Python by building 100 projects in 100 days. Learn to build websites, games, apps, plus scraping and data science.",
+        "img": "https://img-c.udemycdn.com/course/240x135/2776760_f176_6.jpg",
+        "free": 55,
+        "requirements": [
+            "No programming experience needed - I'll teach you everything you need to know",
+            "A Mac or PC computer with access to the internet",
+            "No paid software required - I'll teach you how to use PyCharm, Jupyter Notebooks and Google Colab",
+            "I'll walk you through, step-by-step how to get all the software installed and set up"
+        ],
+        "learn": [
+            "Be able to program in Python professionally",
+            "Master the Python programming language by building 100 projects over 100 days",
+            "Create a portfolio of 100 Python projects to apply for developer jobs",
+            "Be able to build fully fledged websites and web apps with Python",
+            "Be able to use Python for data science and machine learning",
+            "Build games like Blackjack, Pong and Snake using Python",
+            "Build GUIs and Desktop applications with Python",
+            "Learn to use modern frameworks like Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, Matplotlib, Seaborn,"
+        ],
+        "instructor": {
+            "name": " Dr. Angela Yu",
+            "job": " Developer and Lead Instructor",
+            "img": "https://img-c.udemycdn.com/user/200_H/31334738_a13c_2.jpg ",
+            "star": 4.9,
+            "starCount": 1234,
+            "details": "I'm Angela, I'm a developer with a passion for teaching. I'm the lead instructor at the London App Brewery, London's leading Programming Bootcamp. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees.My first foray into programming was when I was just 12 years old, wanting to build my own Space Invader game. Since then, I've made hundred of websites, apps and games. But most importantly, I realised that my greatest passion is teaching.I spend most of my time researching how to make learning to code fun and make hard concepts easy to understand. I apply everything I discover into my bootcamp courses. In my courses, you'll find lots of geeky humour but also lots of explanations and animations to make sure everything is easy to understand.I'll be there for you every step of the way. "
+        }
+    },
+    {
+        "key": "B015WXL0C6",
+        "category": "The Complete 2021 Web Development Bootcamp",
+        "title": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
+        "img": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_12.jpg",
+        "free": 35,
+        "requirements": [
+            ""
+        ],
+        "learn": [
+            " Be able to build ANY website you want.",
+            "Craft a portfolio of websites to apply for junior developer jobs.",
+            "Build fully-fledged websites and web apps for your startup or business.",
+            "Work as a freelance web developer.",
+            "Master backend development with Node",
+            "Master frontend development with React",
+            "Learn the latest frameworks and technologies, including Javascript ES6, Bootstrap 4, MongoDB.",
+            "Learn professional developer best practices"
+        ],
+        "instructor": {
+            "name": " Dr. Angela Yu",
+            "job": " Developer and Lead Instructor",
+            "img": "https://img-c.udemycdn.com/user/200_H/31334738_a13c_2.jpg ",
+            "star": 4.3,
+            "starCount": 232,
+            "details": "I'm Angela, I'm a developer with a passion for teaching. I'm the lead instructor at the London App Brewery, London's leading Programming Bootcamp. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees.My first foray into programming was when I was just 12 years old, wanting to build my own Space Invader game. Since then, I've made hundred of websites, apps and games. But most importantly, I realised that my greatest passion is teaching.I spend most of my time researching how to make learning to code fun and make hard concepts easy to understand. I apply everything I discover into my bootcamp courses. In my courses, you'll find lots of geeky humour but also lots of explanations and animations to make sure everything is easy to understand.I'll be there for you every step of the way. "
+        }
+    },
+    {
+        "key": "B06Y4GZS9C",
+        "category": "Pre-Programming: Everything you need to know before you code",
+        "title": "Increase your chance of success learning to code and communicating with other developers",
+        "img": "https://img-c.udemycdn.com/course/240x135/881980_fc8f.jpg",
+        "free": 56,
+        "requirements": [
+            "Access to the internet",
+            "A sense of humor"
+        ],
+        "learn": [
+            " Better understand the fundamentals of how programming works",
+            "Understand the fundamentals of how computers work and how that relates to modern web technology",
+            "Choose what programming language and path they want to pursue in their career",
+            "Understand and apply the 8 basic concepts of programming",
+            "Evaluate, install, and modify any content management system",
+            "Understand world technology trends like responsive design, pair programming, PaaS systems, and the growth of APIs",
+            "Make a decision about what technology and ecosystem interests you Correctly understand and apply the concept of a programming framework Call out your friends for not knowing the difference between a framework, library, and IDE (they'll love you)",
+            "Communicate with others about technology in a way that doesn't immediately give away your inexperience",
+            "Impress your friends during drinks with random factoids about Bill Gates & Steve Jobs",
+            "Finally understand the reason Comcast keeps billing you $29.99"
+        ],
+        "instructor": {
+            "name": "Evan Kimbrell ",
+            "job": " Founder of Sprintkick | Ex-VC | Ex-startup founder",
+            "img": "https://img-c.udemycdn.com/user/200_H/18187_dbc6_6.jpg",
+            "star": 4.9,
+            "starCount": 2232,
+            "details": "Hi, I'm Evan Kimbrell. Thanks for checking out my course.  **My courses have been featured in Forbes, CNN, Entrepreneur Magazine, BusinessInsider, BuzzFeed, Mashable, TheNextWeb, The Daily Beast, & Techcrunch**.Currently, I'm the Founder and Director of Sprintkick, a full-service, referral-only digital agency based out of San Francisco. Over the past four years I've overseen the development and launch of over 100 web and mobile apps. Clients range from two-man bootstrapping startups to multibillion dollar Fortune 100s like Wal-Mart, Dick's Sporting Goods, and GNC. Prior to Sprintkick I worked as a VC for a new firm called Juvo Capital, based out of L.A. I spearheaded the firm's expansion into Silicon Valley and into the Consumer Web tech category.In the long long ago, I was a co-founder for an educational software startup called ScholarPRO that raised a ton of money and then spectacularly blew up (in the bad way). Before it exploded like the Death Star, I went through five tech incubators (yes, five): Tech Stars, Excelerate Labs, MassChallenge, Babson Venture Program, and Sparkseed. Hope you enjoy my courses! "
+        }
+    },
+    {
+        "key": "B06XJJG4PD",
+        "category": "Running a Web Development Business: The Complete Guide",
+        "title": "Learn how to start and grow a successful web development business. Get up & running and making sales in under a week.",
+        "img": "https://img-c.udemycdn.com/course/240x135/369662_7246_2.jpg",
+        "free": 40,
+        "requirements": [
+            "No pre-requisites necessary.",
+            "Programming experience is helpful but not necessary"
+        ],
+        "learn": [
+            "Understand how development stacks work and pick which stack is ideal for you",
+            "Predict the timeline for starting your business",
+            "Decide between hiring in-house employees or contractors for your business",
+            " Decide between offering generalized or specialized web services",
+            "Choose a winning combination of traits that you want your business to convey",
+            " Understand the different types of contractors and where to find them",
+            " Effectively allocate your time",
+            " Assess the core components of successful web development firms",
+            " Find cheap and professional ways of creating an online presence",
+            "Select a name that's attractive and conveys your core messaging",
+            " Master the biggest platforms for contracting: Freelancer and Upwork",
+            " Use advanced search techniques to fill the gaps of your development work with contractors",
+            "Create and organize a professional and effective portfolio",
+            "Use a few uncommon techniques to grow your portfolio faster",
+            "Utilize 15 different strategies to attract potential clients",
+            "Create three different types of proposals and know when to use them",
+            " Use tools like Proposify and Nusii to create and streamline proposals",
+            " Strategically use ballpark estimates to close clients sooner",
+            " Manage clients effectively while using your time efficiently",
+            "  Keep client retention rates high and minimize churn",
+            " Sniff out a client's budget before they tell you",
+            " Use advanced best practices to maintain your businesses growth",
+            " Recognize client red flags before you start working with them",
+            " Figure out the optimal pricing configuration for your rates",
+            "Handle client meetings in person",
+            " Gauge when clients are not likely to accept an estimate or proposal",
+            " Make long-term decisions about which clients to retain and which to lose",
+            "Integrate Asana into your workflow to increase transparency and efficiency",
+            "Manage a team of subcontractors online "
+        ],
+        "instructor": {
+            "name": "Evan Kimbrell ",
+            "job": " Founder of Sprintkick | Ex-VC | Ex-startup founder",
+            "img": "https://img-c.udemycdn.com/user/200_H/18187_dbc6_6.jpg",
+            "star": 4.7,
+            "starCount": 762,
+            "details": "Hi, I'm Evan Kimbrell. Thanks for checking out my course.  **My courses have been featured in Forbes, CNN, Entrepreneur Magazine, BusinessInsider, BuzzFeed, Mashable, TheNextWeb, The Daily Beast, & Techcrunch**.Currently, I'm the Founder and Director of Sprintkick, a full-service, referral-only digital agency based out of San Francisco. Over the past four years I've overseen the development and launch of over 100 web and mobile apps. Clients range from two-man bootstrapping startups to multibillion dollar Fortune 100s like Wal-Mart, Dick's Sporting Goods, and GNC. Prior to Sprintkick I worked as a VC for a new firm called Juvo Capital, based out of L.A. I spearheaded the firm's expansion into Silicon Valley and into the Consumer Web tech category.In the long long ago, I was a co-founder for an educational software startup called ScholarPRO that raised a ton of money and then spectacularly blew up (in the bad way). Before it exploded like the Death Star, I went through five tech incubators (yes, five): Tech Stars, Excelerate Labs, MassChallenge, Babson Venture Program, and Sparkseed. Hope you enjoy my courses! "
+        }
+    },
+    {
+        "key": "B01NBE6Y5D",
+        "category": "Modern JavaScript From The Beginning",
+        "title": "Learn and build projects with pure JavaScript (No frameworks or libraries)",
+        "img": "https://img-c.udemycdn.com/course/240x135/1463348_52a4_2.jpg",
+        "free": 40,
+        "requirements": [
+            "Basic HTML / CSS knowledge"
+        ],
+        "learn": [
+            " Modular learning sections & 10 real world projects with pure JavaScript",
+            "Master the DOM (document object model) WITHOUT jQuery",
+            "Asynchronous programming with Ajax, Fetch API, Promises & Async / Await",
+            "OOP including ES5 prototypes & ES2015 classes",
+            "Learn JavaScript Patterns",
+            "Regular expressions, error handling, localStorage & more"
+        ],
+        "instructor": {
+            "name": "Brad Traversy",
+            "job": " Full Stack Web Developer & Instructor at Traversy Media",
+            "img": "https://img-c.udemycdn.com/user/200_H/21681922_4513_5.jpg",
+            "star": 4.4,
+            "starCount": 222,
+            "details": "Brad Traversy has been programming for around 12 years and teaching for almost 5 years. He is the owner of Traversy Media which is a successful web development YouTube channel and specializes in everything from HTML5 to front end frameworks like Angular as well as server side technologies like Node.js, PHP and Python. Brad has mastered explaining very complex topics in a simple manner that is very understandable. Invest in your knowledge by watching Brad's courses "
+        }
+    },
+    {
+        "key": "B01J42JPJG",
+        "category": "20 Web Projects With Vanilla JavaScript",
+        "title": "Build 20 mini frontend projects from scratch with HTML5, CSS & JavaScript (No frameworks or libraries)",
+        "img": "https://img-c.udemycdn.com/course/240x135/2782800_0b85.jpg",
+        "free": 30,
+        "requirements": [
+            "Basic knowledge in HTML, CSS & JavaScript"
+        ],
+        "learn": [
+            "Build 20 Frontend Projects From Scratch",
+            "No JS or CSS Frameworks",
+            "Modern JavaScript (ES6+) - Arrows, Fetch, Promises, etc",
+            " DOM Manipulation & Events",
+            "Animations With CSS & JavaScript",
+            "Fetch & JSON With 3rd Party API's",
+            "HTML5 Canvas, Speech API, Audio & Video",
+            "Beginner Friendly "
+        ],
+        "instructor": {
+            "name": "Brad Traversy",
+            "job": " Full Stack Web Developer & Instructor at Traversy Media",
+            "img": "https://img-c.udemycdn.com/user/200_H/21681922_4513_5.jpg",
+            "star": 4.6,
+            "starCount": 982,
+            "details": "Brad Traversy has been programming for around 12 years and teaching for almost 5 years. He is the owner of Traversy Media which is a successful web development YouTube channel and specializes in everything from HTML5 to front end frameworks like Angular as well as server side technologies like Node.js, PHP and Python. Brad has mastered explaining very complex topics in a simple manner that is very understandable. Invest in your knowledge by watching Brad's courses "
+        }
+    },
+    {
+        "key": "B01LD4MGY4",
+        "category": "50 Projects In 50 Days - HTML, CSS & JavaScript",
+        "title": "Sharpen your skills by building 50 quick, unique & fun mini projects",
+        "img": "https://img-c.udemycdn.com/course/240x135/3671332_b86a.jpg",
+        "free": 20,
+        "requirements": [
+            "A very basic understanding of HTML, CSS & JavaScript"
+        ],
+        "learn": [
+            " Project based teaching to sharpen your HTML, CSS & JavaScript skills",
+            "Perfect for beginners looking for things to build unique projects in a short timeframe",
+            "Modern styling with flexbox, CSS animations, custom properties, etc",
+            "DOM manipulation, events, array methods, HTTP requests & more"
+        ],
+        "instructor": {
+            "name": "Brad Traversy",
+            "job": " Full Stack Web Developer & Instructor at Traversy Media",
+            "img": "https://img-c.udemycdn.com/user/200_H/21681922_4513_5.jpg",
+            "star": 4.7,
+            "starCount": 2122,
+            "details": "Brad Traversy has been programming for around 12 years and teaching for almost 5 years. He is the owner of Traversy Media which is a successful web development YouTube channel and specializes in everything from HTML5 to front end frameworks like Angular as well as server side technologies like Node.js, PHP and Python. Brad has mastered explaining very complex topics in a simple manner that is very understandable. Invest in your knowledge by watching Brad's courses "
+        }
+    },
+    {
+        "key": "B01LD4MG5",
+        "category": "The Complete Cyber Security Course : Hackers Exposed!",
+        "title": "Volume 1 : Become a Cyber Security Specialist, Learn How to Stop Hackers, Prevent Hacking, Learn IT Security & INFOSEC",
+        "img": "https://img-c.udemycdn.com/course/240x135/614772_233b_9.jpg",
+        "free": 100,
+        "requirements": [
+            "A basic understanding of using operating systems, networks, and the Internet. Be able to download and install software. A willingness to learn.",
+            "Please note this is Volume 1 of 4 of the complete course. After the completion of all 4 volumes, you will know more than 80% of security professionals, government and law enforcement agents and even expert hackers about maintaining security, privacy, and anonymity."
+        ],
+        "learn": [
+            "An advanced practical skillset in defeating all online threats - advanced hackers, trackers, malware and all Internet nastiness including mitigating government spying and mass surveillance.",
+            "Start a career in cyber security. Become a cyber security specialist.",
+            "The very latest up-to-date information and methods.",
+            "We cover operating system security, privacy, and patching - On Windows 7, Windows 8, Windows 10, MacOS and Linux.",
+            "Explore the threat landscape - Darknets, dark markets, zero day vulnerabilities, exploit kits, malware, phishing and much more.",
+            " You will master encryption in an easy to follow crash course.",
+            "Go in-depth into security through physical and virtual isolation and compartmentalization. Covering sandboxes, application isolation, virtual machines, Whonix and Qubes OS.",
+            "You will learn about nation state secret tracking and hacking infrastructure.",
+            "A certificate of completion is available signed by the instructor Nathan House so CPE credits can be claimed. An off-site sign-up is required to provide your details for this"
+        ],
+        "instructor": {
+            "name": "Nathan House",
+            "job": "Leading Cyber Security Expert",
+            "img": "https://img-c.udemycdn.com/user/200_H/15858120_4fac.jpg",
+            "star": 4.7,
+            "starCount": 2654,
+            "details": "Winner of the AI 'Cyber Security Educator of the Year 2020' award.Nathan has over 24 years experience in cyber security where I have advised  some of largest companies in the world, assuring security on  multi-million and multi-billion pound projects. He is the CEO of Station X a cyber security consultancy. More recently he acted as  the lead security consultant on a number of the UKs mobile banking and  payment solutions helping secure to date over £71Bn in transactions. My clients have included; BP, ExxonMobil, Shell, Vodafone, VISA, T-mobile, GSK, COOP Banking Group, Royal Bank of  Scotland, Natwest, Yorkshire bank, BG Group, BT, London 2012. Over the years he have spoken at a number of security conferences"
+        }
+    },
+    {
+        "key": "B01LD4MG51",
+        "category": "The Complete Networking Fundamentals Course. ",
+        "title": "Learn about networking and start your journey to Cisco 200-301 Certification.",
+        "img": "https://img-c.udemycdn.com/course/240x135/751094_fb27_2.jpg",
+        "free": 50,
+        "requirements": [
+            "There are no specific prerequisites as the course covers all the topics in detail.",
+            "Basic understanding of computers (connect to the Internet)"
+        ],
+        "learn": [
+            "This course is for anyone who wants to attain the Cisco CCNA certification",
+            "This course will prepare you for the CCNA 200-301 certification exam",
+            "Describe network fundamentals and build simple LANs",
+            "Explain IP addressing and subnetting",
+            "Describe hubs, switches and routers",
+            "Explain the OSI and TCP/IP models",
+            " Explain how addresses are allocated using DHCP",
+            "Explain name resolution using DNS",
+            "Explain Access Control Lists (ACLs)",
+            "Explain Wi-Fi 6 and other Wi-Fi technologies",
+            "Explain how to protect networks from attacks such as Kali Linux hacks"
+        ],
+        "instructor": {
+            "name": "David Bombal",
+            "job": "CCIE #11023, over 15 years of network training experience",
+            "img": "https://img-c.udemycdn.com/user/200_H/794308_b2a6_4.jpg",
+            "star": 4.3,
+            "starCount": 2322,
+            "details": "David Bombal (CCIE  #11023 Emeritus) passed his Cisco Certified Internetwork Expert Routing and Switching exam in January 2003 and is one of a small percentage of Cisco Engineers that pass their CCIE labs on their first attempt. David qualified as a  Cisco Certified Systems Instructor (CCSI #22787) many years ago! He has been training Cisco  courses for over 15 years and has delivered instructor led courses in various  countries around the world covering a wide range of Cisco topics from CCNA to  CCIE. David is very active on social media and has over 500,000 YouTube subscribers and has posted over 1,000 free videos."
+        }
+    },
+    {
+        "key": "B01LD4MG52",
+        "category": "Wireshark: Packet Analysis and Ethical Hacking: Core Skills",
+        "title": "From basic to advanced network analysis using Wireshark! Ethical Hacking using Kali Linux: Passwords, Security, Protocol",
+        "img": "https://img-c.udemycdn.com/course/240x135/2351336_fb8c_6.jpg",
+        "free": 60,
+        "requirements": [
+            "Computer capable of running Wireshark.",
+            "Internet connection so you can work online."
+        ],
+        "learn": [
+            "Learn how to troubleshoot networks using Wireshark.",
+            "Capture VoIP, OSPF, HTTP, Telnet and many other protocols using Wireshark.",
+            "Learn how to use Wireshark for Ethical hacking.",
+            "Improve your job prospects by adding Wireshark to your resume.",
+            "Understand and interpret network protocols.",
+            " Hack Network Protocols using Kali Linux"
+        ],
+        "instructor": {
+            "name": "David Bombal",
+            "job": "CCIE #11023, over 15 years of network training experience",
+            "img": "https://img-c.udemycdn.com/user/200_H/794308_b2a6_4.jpg",
+            "star": 4.6,
+            "starCount": 1222,
+            "details": "David Bombal (CCIE  #11023 Emeritus) passed his Cisco Certified Internetwork Expert Routing and Switching exam in January 2003 and is one of a small percentage of Cisco Engineers that pass their CCIE labs on their first attempt. David qualified as a  Cisco Certified Systems Instructor (CCSI #22787) many years ago! He has been training Cisco  courses for over 15 years and has delivered instructor led courses in various  countries around the world covering a wide range of Cisco topics from CCNA to  CCIE. David is very active on social media and has over 500,000 YouTube subscribers and has posted over 1,000 free videos."
+        }
+    },
+    {
+        "key": "B01LD4MG54",
+        "category": "Complete CCNP ENCOR (350-401) Master Class",
+        "title": "Get ready to CRUSH your Cisco CCNP ENCOR (350-401) exam! This course help prepare you for your CCNP and CCIE certs.",
+        "img": "https://img-c.udemycdn.com/course/240x135/4187754_6a2b_4.jpg",
+        "free": 50,
+        "requirements": [
+            "Although there is no prerequisite for taking the ENCOR exam, it is recommended that you have a foundational understanding of basic networking concepts",
+            "Network simulator, emulator, or physical equipment for lab practice (optional)"
+        ],
+        "learn": [
+            "This course is designed to fully prepare you for Cisco’s ENCOR (350-401) exam",
+            "Enterprise architecture",
+            "Virtualization",
+            "Infrastructure technologiesVirtualization",
+            "Network management",
+            "Network security",
+            "Network automation",
+            "Exam preparation strategies"
+        ],
+        "instructor": {
+            "name": "David Bombal",
+            "job": "CCIE #11023, over 15 years of network training experience",
+            "img": "https://img-c.udemycdn.com/user/200_H/794308_b2a6_4.jpg",
+            "star": 4,
+            "starCount": 282,
+            "details": "David Bombal (CCIE  #11023 Emeritus) passed his Cisco Certified Internetwork Expert Routing and Switching exam in January 2003 and is one of a small percentage of Cisco Engineers that pass their CCIE labs on their first attempt. David qualified as a  Cisco Certified Systems Instructor (CCSI #22787) many years ago! He has been training Cisco  courses for over 15 years and has delivered instructor led courses in various  countries around the world covering a wide range of Cisco topics from CCNA to  CCIE. David is very active on social media and has over 500,000 YouTube subscribers and has posted over 1,000 free videos."
+        }
+    },
+    {
+        "key": "B01LD4MG6",
+        "category": "Adobe Photoshop CC – Essentials Training Course",
+        "title": "This Adobe Photoshop Essentials course will teach you Photoshop Retouching as well as Photoshop for graphic design.",
+        "img": "https://img-c.udemycdn.com/course/240x135/1747782_399b_2.jpg",
+        "free": 20,
+        "requirements": [
+            "Adobe Photoshop, preferably the latest CC (Creative Cloud) version.",
+            "No prior knowledge or experience with Photoshop is required"
+        ],
+        "learn": [
+            "You will be able to start earning money from your Photoshop Skills.",
+            "You will be able to add Photoshop to your CV",
+            "You will have over 20 of your own projects to add to your portfolio",
+            "You will create social media post images for Facebook, Instagram, Twitter, Pintrest & Youtube",
+            "You will be able to mask anything… including the dreaded hair!",
+            "Clearcut images.",
+            "Create amazing typography.",
+            "You will create popular visual styles.",
+            "You will create distorted images.",
+            "You will create graphics from scratch.",
+            "You will retouch photographs like a professional.",
+            "You will create a postcard.",
+            "Create posters.",
+            "Create advertising.",
+            "Resize Images",
+            "Build a flyer.",
+            "Change the color or images.",
+            "Fix the colors in photographs",
+            "You will change eye & hair colors.",
+            "You will combine 2 photographs to create amazing compositions.",
+            "You will put a storm in a tea cup.",
+            "You will create text that looks like stone",
+            "You will build a logo with type that wraps around it like a badge.",
+            "You will create text that wraps around a woman."
+        ],
+        "instructor": {
+            "name": "Daniel Walter Scott",
+            "job": "Adobe Certified Instructor & Adobe Certified Expert",
+            "img": "https://img-c.udemycdn.com/user/200_H/11614232_b0fc.jpg",
+            "star": 4.7,
+            "starCount": 2342,
+            "details": "Sharing is who I am, and teaching is where I am at my best, because I've been on both sides of that equation, and getting to deliver useful training is my meaningful way to be a part of the creative community.I've spent a long time watching others learn, and teach, to refine how I work with you to be efficient, useful and, most importantly, memorable. I want you to carry what I've shown you into a bright future.I have a wife (a lovely Irish girl) and kids. I have lived and worked in many places (as Kiwis tend to do) – but most of my 14+ years of creating and teaching has had one overriding theme: bringing others along for the ride as we all try to change the world with our stories, our labours of love and our art."
+        }
+    },
+    {
+        "key": "B01LD4MG7",
+        "category": "User Experience Design Essentials - Adobe XD UI UX Design",
+        "title": "Use XD to get a job in UI Design, User Interface, User Experience design, UX design & Web Design",
+        "img": "https://img-c.udemycdn.com/course/240x135/1452908_8741_3.jpg",
+        "free": 50,
+        "requirements": [
+            "You will need a copy of Adobe XD 2019 or above. A free trial can be downloaded from Adobe.",
+            "No previous design experience is needed.",
+            "No previous Adobe XD skills are needed."
+        ],
+        "learn": [
+            "Become a UX designer.",
+            "You will be able to start earning money from your XD Skills.",
+            "You will be able to add UX designer to your CV",
+            "Build a UX project from beginning to end.",
+            " Become a UI designer.",
+            " Build & test a full mobile app.",
+            " Build & test a full website design.",
+            " You will have a project of your own to add to your portfolio.",
+            " 93 lectures of well-structured, step by step content.",
+            " Learn to design websites & mobile phone apps.",
+            " Work with fonts & colors.",
+            " Prototype your designs with interactions.",
+            " Test on mobile phones.",
+            " You'll create realistic prototype complete with micro interactions.",
+            "Send your designs for feedback & commenting.",
+            " Export production ready assets.",
+            " Create your first UX brief & persona.",
+            " Create quick wireframes.",
+            " How to use premade UI kits.",
+            "Learn professional workflow tricks & shortcuts."
+        ],
+        "instructor": {
+            "name": "Daniel Walter Scott",
+            "job": "Adobe Certified Instructor & Adobe Certified Expert",
+            "img": "https://img-c.udemycdn.com/user/200_H/11614232_b0fc.jpg",
+            "star": 4.3,
+            "starCount": 892,
+            "details": "Sharing is who I am, and teaching is where I am at my best, because I've been on both sides of that equation, and getting to deliver useful training is my meaningful way to be a part of the creative community.I've spent a long time watching others learn, and teach, to refine how I work with you to be efficient, useful and, most importantly, memorable. I want you to carry what I've shown you into a bright future.I have a wife (a lovely Irish girl) and kids. I have lived and worked in many places (as Kiwis tend to do) – but most of my 14+ years of creating and teaching has had one overriding theme: bringing others along for the ride as we all try to change the world with our stories, our labours of love and our art."
+        }
+    },
+    {
+        "key": "B01LD4MG8",
+        "category": "Master SQL For Data Science",
+        "title": "Become a SQL query wizard and never be afraid to look at a large SQL query again!",
+        "img": "https://img-c.udemycdn.com/course/240x135/1245422_02f9_2.jpg",
+        "free": 30,
+        "requirements": [
+            "No prerequisites needed for this course"
+        ],
+        "learn": [
+            "Write complex SQL statements to query the database and gain critical insight on data",
+            " Practice Every Step of the Way by Working Through 100+ Puzzles (with solutions)",
+            "Transition from the Very Basics to a Point Where You can Effortlessly Work with Large SQL Queries",
+            "Learn Advanced Querying Techniques",
+            " Become a Master SQL Developer"
+        ],
+        "instructor": {
+            "name": "Imtiaz Ahmad",
+            "job": "Senior Software Engineer & Trainer ",
+            "img": "https://img-c.udemycdn.com/user/200_H/7315098_7c17_3.jpg",
+            "star": 4.5,
+            "starCount": 422,
+            "details": "Imtiaz is an award winning Udemy instructor who is highly experienced in big data technologies and enterprise software architectures. Imtiaz has spent a considerable amount of time building financial software on Wall St. and worked with companies like S&P, Goldman Sachs, AOL and JP Morgan along with helping various startups solve mission critical software problems. In his 13+ years of experience, Imtiaz has also taught software development in programming languages like Java, C++, Python, PL/SQL, Ruby and Javascript. He's the founder of Job Ready Programmer - an online programming school that prepares students of all backgrounds to become professional job-ready software developers through real-world programming courses."
+        }
+    },
+    {
+        "key": "B01LD4MG9",
+        "category": "The Complete Oracle SQL Certification Course",
+        "title": "Don't Just Learn the SQL Language, Become Job-Ready and Launch Your Career as a Certified Oracle SQL Developer!",
+        "img": "https://img-c.udemycdn.com/course/240x135/866196_be1d.jpg",
+        "free": 40,
+        "requirements": [
+            "Absolutely no programming experience is required to master the content in this course"
+        ],
+        "learn": [
+            "Become Job Ready to Start Contributing as a Database Developer Day 1",
+            "Program in the SQL Language to Solve a Variety of Database Problems",
+            "Code along with me to PRACTICE and IMPLEMENT everything you learn",
+            "Become a SQL Ninja and Understand How the Oracle Database Works",
+            "MASTER the Content Required to Pass the Oracle 1Z0-071 Database SQL Exam",
+            "Obtain the Skills that are Necessary to Land a Job as a SQL Develope",
+            " Have the Ability to Solve any SQL Problem"
+        ],
+        "instructor": {
+            "name": "Imtiaz Ahmad",
+            "job": "Senior Software Engineer & Trainer ",
+            "img": "https://img-c.udemycdn.com/user/200_H/7315098_7c17_3.jpg",
+            "star": 4.5,
+            "starCount": 2342,
+            "details": "Imtiaz is an award winning Udemy instructor who is highly experienced in big data technologies and enterprise software architectures. Imtiaz has spent a considerable amount of time building financial software on Wall St. and worked with companies like S&P, Goldman Sachs, AOL and JP Morgan along with helping various startups solve mission critical software problems. In his 13+ years of experience, Imtiaz has also taught software development in programming languages like Java, C++, Python, PL/SQL, Ruby and Javascript. He's the founder of Job Ready Programmer - an online programming school that prepares students of all backgrounds to become professional job-ready software developers through real-world programming courses."
+        }
+    },
+    {
+        "key": "B01LD4MG10",
+        "category": "The Complete Java Certification Course",
+        "title": "Become a confident industry ready core Java developer and get certified as a Java professional!",
+        "img": "https://img-c.udemycdn.com/course/240x135/827692_91ad_2.jpg",
+        "free": 50,
+        "requirements": [
+            "A computer with Windows or Mac operating system (I provide instructions on how to setup the dev environment for each)",
+            "The desire to learn the most popular programming language in the world - Java",
+            "No other prerequisites"
+        ],
+        "learn": [
+            "How to write Java Programs from scratch and have loads of fun in the process",
+            "Go from zero to hero in writing industry ready Java programs",
+            "Gain enough experience to pass a core Java Programming interview and perform well on the job",
+            "Be prepared to take the Java Certification Exam for OCAJP 1Z0-808"
+        ],
+        "instructor": {
+            "name": "Imtiaz Ahmad",
+            "job": "Senior Software Engineer & Trainer ",
+            "img": "https://img-c.udemycdn.com/user/200_H/7315098_7c17_3.jpg",
+            "star": 4.5,
+            "starCount": 2312,
+            "details": "Imtiaz is an award winning Udemy instructor who is highly experienced in big data technologies and enterprise software architectures. Imtiaz has spent a considerable amount of time building financial software on Wall St. and worked with companies like S&P, Goldman Sachs, AOL and JP Morgan along with helping various startups solve mission critical software problems. In his 13+ years of experience, Imtiaz has also taught software development in programming languages like Java, C++, Python, PL/SQL, Ruby and Javascript. He's the founder of Job Ready Programmer - an online programming school that prepares students of all backgrounds to become professional job-ready software developers through real-world programming courses."
+        }
+    }
+]

@@ -1,0 +1,28 @@
+.course:hover {
+    
+    box-shadow: 4px 4px 7px darkslategrey;
+    border-radius: 10px;
+    border: 1px solid blueviolet;
+    
+  }
+
+/* button */
+.btn-regular{
+    background-color: goldenrod;
+    padding: 5px 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* fontawesome icon */
+.icon-color{
+    color: gold;
+    font-size: 16px;
+}
+.icon a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: lightslategray;
+    
+}
