@@ -14,7 +14,7 @@ const Home = () => {
             {/* welcome text */}
             <div className="welcome-text  text-center pt-5 pb-5">
                 <h1> WELCOME TO GoStudy</h1>
-                <h6> We Are StudyLab An Online Learning Center</h6>
+                <h6> We Are GoStudy An Online Learning Center</h6>
                 <h1>Over 1500+ courses with
                     professional global certificate</h1>
                 <p>You can start and finish one of these popular courses in under a day - for free!
