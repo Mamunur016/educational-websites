@@ -1,7 +1,7 @@
 # Getting Started with GoStudy
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project was deploy netlify website(https://education-f71e93.netlify.app/)
+### This project was deploy netlify website(https://education-f71e93.netlify.app/)
 
 ## Available Feature
 ### In this project you can find  learn-Python instructore
