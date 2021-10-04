@@ -42,7 +42,7 @@ const Home = () => {
                                 </Col>
                                 <Col sm={9}>
                                     <h4>20K + Courses</h4>
-                                    <p>You can start and finish one of these popular courses in under</p>
+                                    <p>You can start and finish one of these popular courses.</p>
                                 </Col>
                             </Row>
                         </Col>
@@ -53,7 +53,7 @@ const Home = () => {
                                 </Col>
                                 <Col sm={9}>
                                     <h4>Expert Instructor</h4>
-                                    <p>You can start and finish one of these popular courses in under</p>
+                                    <p>You can start and finish one of these popular courses in under Expert instructore</p>
                                 </Col>
                             </Row>
                         </Col>
@@ -65,7 +65,7 @@ const Home = () => {
                                 <Col sm={9}>
                                     <h4>
                                         Lifetime Access</h4>
-                                    <p>You can start and finish one of these popular courses in under</p>
+                                    <p>You can access this content Lifetime.</p>
                                 </Col>
                             </Row>
                         </Col>
@@ -162,7 +162,7 @@ const Cour = (props) => {
 
 
                         {/* to={`/services/${key}`} */}
-                        <Link to='/services' >
+                        <Link to='' >
                             <button className="btn btn-success ps-5 pe-5">Details</button>
                         </Link>
 

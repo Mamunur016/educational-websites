@@ -8,7 +8,7 @@ import './Course.css'
 const Course = (props) => {
     const { category, title, img, free, instructor } = props.course;
     const { star, starCount } = instructor;
-    console.log(props);
+    // console.log(props);
     return (
         <div className=''>
 
