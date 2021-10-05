@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### This project was deploy netlify website(https://education-f71e93.netlify.app/)
 
 ## Available Feature
+### Get unlimited access to 1500+ of our top courses
+### Explore a variety of fresh topics
+### Find the right instructor for you
 ### In this project you can find  learn-Python instructore
 ### In this project you can find js development instructore.
 ### In this project you can find best development teaching instructore.

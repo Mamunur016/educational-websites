@@ -1,20 +1,18 @@
-import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import React from 'react';
-import { Card, Col, Image } from 'react-bootstrap';
-import Rating from 'react-rating';
-import { Link } from 'react-router-dom';
-import './Course.css'
+// Home course
 
-const Course = (props) => {
+import { Card, Col } from "react-bootstrap";
+import Rating from "react-rating";
+import { Link } from "react-router-dom";
+
+const HomeCourse = (props) => {
     const { title, subTitle, img, free, instructor, key } = props.course;
     const { star, starCount } = instructor;
-    // console.log(props);
+
     return (
         <div className=''>
 
             <Col>
-                <Card className='p-3 border-0 shadow rounded-3' style={{ minHeight: "600px" }}>
+                <Card className='p-3 border-0 shadow rounded-3 course' style={{ minHeight: "550px" }}>
                     <div className='text-center'>
                         <Card.Img variant="top" src={img} style={{
                             width: '250px', height: '200px',
@@ -36,16 +34,12 @@ const Course = (props) => {
                             </h4>
                         </Card.Text>
                     </Card.Body>
-                    <Card.Footer className='border-0 bg-white d-flex justify-content-between align-items-center'>
+                    <Card.Footer className='border-0 bg-white text-center '>
 
-                        {/* button for event handler */}
-                        <button
-                            onClick={() => props.handleAddToCart(props.course)}
-                            className="btn-regular me-5"
-                        ><FontAwesomeIcon icon={faShoppingCart} /> add to cart</button>
-                        {/* {`/services/${key}`} */}
-                        <Link to='#' >
-                            <button className="btn btn-success ps-3 pe-2">Details</button>
+
+                        {/* to={`/services/${key}`} */}
+                        <Link to='' >
+                            <button className="btn btn-success ps-5 pe-5">Details</button>
                         </Link>
 
                     </Card.Footer>
@@ -55,5 +49,4 @@ const Course = (props) => {
 
     );
 };
-
-export default Course;
+export default HomeCourse;

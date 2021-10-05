@@ -24,7 +24,7 @@ const Cart = (props) => {
 
             <h4> <FontAwesomeIcon icon={faUser} /> course Added: {props.cart.length}</h4>
             <div className="name">
-                <h4>course Instructor:</h4>
+                <h4>course Information:</h4>
                 {
                     cart.map(cart => <Name name={cart}
                         key={cart.key}
@@ -47,9 +47,9 @@ const Name = (props) => {
 
     return (
         <div className="name">
-            <div className="m">
+            <div className="single-cart">
                 <img src={props.name.instructor.img} alt="" />
-                <p> {props.name.category}</p>
+                <p> {props.name.title}</p>
                 <p>$ {props.name.free}</p>
             </div>
 

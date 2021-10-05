@@ -11,6 +11,7 @@ import Footer from './components/Footer/Footer';
 import OurTeam from './components/OurTeam/OurTeam';
 import Instructors from './components/Instructors/Instructors';
 import Thumbs from './components/Thumbs/Thumbs';
+import CourseDetails from './components/CourseDetails/CourseDetails';
 // import CourseDetails from './components/CourseDetails/CourseDetails';
 
 function App() {
@@ -32,11 +33,11 @@ function App() {
           <Route exact path='/services'>
             <Services></Services>
           </Route>
-          <Route path='/ourteam'>
+          <Route exact path='/ourteam'>
             <OurTeam></OurTeam>
 
           </Route>
-          <Route path='/instructor'>
+          <Route exact path='/instructor'>
             <Instructors></Instructors>
           </Route>
           <Route path='/thumbs'>

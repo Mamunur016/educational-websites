@@ -1,8 +1,8 @@
 [
     {
         "key": "B002RL8IYK",
-        "category": "2021 Complete Python Bootcamp From Zero to Hero in Python",
-        "title": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+        "title": "2021 Complete Python Bootcamp From Zero to Hero in Python",
+        "subTitle": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
         "img": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
         "free": 30,
         "requirements": [
@@ -24,13 +24,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/9685726_67e7_4.jpg",
             "star": 4.6,
             "starCount": 2223,
+            "students": 134567,
+            "courses": 45,
             "details": "  Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics, materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc. and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more. Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV."
         }
     },
     {
         "key": "B01LZ2WZGH",
-        "category": "Python for Data Science and Machine Learning Bootcamp",
-        "title": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more",
+        "title": "Python for Data Science and Machine Learning Bootcamp",
+        "subTitle": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more",
         "img": "https://img-c.udemycdn.com/course/240x135/903744_8eb2.jpg",
         "free": 40,
         "requirements": [
@@ -57,13 +59,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/9685726_67e7_4.jpg",
             "star": 4.7,
             "starCount": 2122,
+            "students": 134567,
+            "courses": 45,
             "details": "  Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics, materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc. and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more. Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV."
         }
     },
     {
         "key": "B01K1IO3QW",
-        "category": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
-        "title": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+        "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+        "subTitle": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
         "img": "https://img-c.udemycdn.com/course/240x135/950390_270f_3.jpg",
         "free": 35,
         "requirements": [
@@ -85,13 +89,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/2364054_83cd_5.jpg",
             "star": 4.5,
             "starCount": 100,
+            "students": 45567,
+            "courses": 35,
             "details": "My name is Kirill Eremenko and I am super-psyched that you are reading this! Professionally, I come from the Data Science consulting space with experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and since starting on Udemy I have passed on my knowledge to thousands of aspiring data scientists.From my courses you will straight away notice how I combine my real-life experience and academic background in Physics and Mathematics to deliver professional step-by-step coaching in the space of Data Science. One of the strongest sides of my teaching style is that I focus on intuitive explanations, so you can be sure that you will truly understand even the most complex topics.To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!"
         }
     },
     {
         "key": "B01F4ZG68A",
-        "category": "Learning Python for Data Analysis and Visualization",
-        "title": "Learn python and how to use it to analyze,visualize and present data. Includes tons of sample code and hours of video!",
+        "title": "Learning Python for Data Analysis and Visualization",
+        "subTitle": "Learn python and how to use it to analyze,visualize and present data. Includes tons of sample code and hours of video!",
         "img": "https://img-c.udemycdn.com/course/240x135/396876_cc92_7.jpg",
         "free": 45,
         "requirements": [
@@ -112,13 +118,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/9685726_67e7_4.jpg",
             "star": 4.9,
             "starCount": 4562,
+            "students": 134567,
+            "courses": 45,
             "details": "  Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics, materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc. and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more. Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV."
         }
     },
     {
         "key": "B01M18UZF5",
-        "category": "Python and Django Full Stack Web Developer Bootcamp",
-        "title": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
+        "title": "Python and Django Full Stack Web Developer Bootcamp",
+        "subTitle": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
         "img": "https://img-c.udemycdn.com/course/240x135/822444_a6db.jpg",
         "free": 60,
         "requirements": [
@@ -143,13 +151,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/9685726_67e7_4.jpg",
             "star": 4.6,
             "starCount": 654,
+            "students": 134567,
+            "courses": 45,
             "details": "  Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics, materials science, and data science technologies. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming the ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Data Inc. and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more. Feel free to contact him on LinkedIn for more information on in-person training sessions or group training sessions in Las Vegas, NV."
         }
     },
     {
         "key": "B01DBGVB7K",
-        "category": "100 Days of Code - The Complete Python Pro Bootcamp for 2021",
-        "title": "Master Python by building 100 projects in 100 days. Learn to build websites, games, apps, plus scraping and data science.",
+        "title": "100 Days of Code - The Complete Python Pro Bootcamp for 2021",
+        "subTitle": "Master Python by building 100 projects in 100 days. Learn to build websites, games, apps, plus scraping and data science.",
         "img": "https://img-c.udemycdn.com/course/240x135/2776760_f176_6.jpg",
         "free": 55,
         "requirements": [
@@ -174,13 +184,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/31334738_a13c_2.jpg ",
             "star": 4.9,
             "starCount": 1234,
+            "students": 894567,
+            "courses": 32,
             "details": "I'm Angela, I'm a developer with a passion for teaching. I'm the lead instructor at the London App Brewery, London's leading Programming Bootcamp. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees.My first foray into programming was when I was just 12 years old, wanting to build my own Space Invader game. Since then, I've made hundred of websites, apps and games. But most importantly, I realised that my greatest passion is teaching.I spend most of my time researching how to make learning to code fun and make hard concepts easy to understand. I apply everything I discover into my bootcamp courses. In my courses, you'll find lots of geeky humour but also lots of explanations and animations to make sure everything is easy to understand.I'll be there for you every step of the way. "
         }
     },
     {
         "key": "B015WXL0C6",
-        "category": "The Complete 2021 Web Development Bootcamp",
-        "title": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
+        "title": "The Complete 2021 Web Development Bootcamp",
+        "subTitle": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
         "img": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_12.jpg",
         "free": 35,
         "requirements": [
@@ -202,13 +214,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/31334738_a13c_2.jpg ",
             "star": 4.3,
             "starCount": 232,
+            "students": 894567,
+            "courses": 32,
             "details": "I'm Angela, I'm a developer with a passion for teaching. I'm the lead instructor at the London App Brewery, London's leading Programming Bootcamp. I've helped hundreds of thousands of students learn to code and change their lives by becoming a developer. I've been invited by companies such as Twitter, Facebook and Google to teach their employees.My first foray into programming was when I was just 12 years old, wanting to build my own Space Invader game. Since then, I've made hundred of websites, apps and games. But most importantly, I realised that my greatest passion is teaching.I spend most of my time researching how to make learning to code fun and make hard concepts easy to understand. I apply everything I discover into my bootcamp courses. In my courses, you'll find lots of geeky humour but also lots of explanations and animations to make sure everything is easy to understand.I'll be there for you every step of the way. "
         }
     },
     {
         "key": "B06Y4GZS9C",
-        "category": "Pre-Programming: Everything you need to know before you code",
-        "title": "Increase your chance of success learning to code and communicating with other developers",
+        "title": "Pre-Programming: Everything you need to know before you code",
+        "subTitle": "Increase your chance of success learning to code and communicating with other developers",
         "img": "https://img-c.udemycdn.com/course/240x135/881980_fc8f.jpg",
         "free": 56,
         "requirements": [
@@ -233,13 +247,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/18187_dbc6_6.jpg",
             "star": 4.9,
             "starCount": 2232,
+            "students": 94567,
+            "courses": 22,
             "details": "Hi, I'm Evan Kimbrell. Thanks for checking out my course.  **My courses have been featured in Forbes, CNN, Entrepreneur Magazine, BusinessInsider, BuzzFeed, Mashable, TheNextWeb, The Daily Beast, & Techcrunch**.Currently, I'm the Founder and Director of Sprintkick, a full-service, referral-only digital agency based out of San Francisco. Over the past four years I've overseen the development and launch of over 100 web and mobile apps. Clients range from two-man bootstrapping startups to multibillion dollar Fortune 100s like Wal-Mart, Dick's Sporting Goods, and GNC. Prior to Sprintkick I worked as a VC for a new firm called Juvo Capital, based out of L.A. I spearheaded the firm's expansion into Silicon Valley and into the Consumer Web tech category.In the long long ago, I was a co-founder for an educational software startup called ScholarPRO that raised a ton of money and then spectacularly blew up (in the bad way). Before it exploded like the Death Star, I went through five tech incubators (yes, five): Tech Stars, Excelerate Labs, MassChallenge, Babson Venture Program, and Sparkseed. Hope you enjoy my courses! "
         }
     },
     {
         "key": "B06XJJG4PD",
-        "category": "Running a Web Development Business: The Complete Guide",
-        "title": "Learn how to start and grow a successful web development business. Get up & running and making sales in under a week.",
+        "title": "Running a Web Development Business: The Complete Guide",
+        "subTitle": "Learn how to start and grow a successful web development business. Get up & running and making sales in under a week.",
         "img": "https://img-c.udemycdn.com/course/240x135/369662_7246_2.jpg",
         "free": 40,
         "requirements": [
@@ -283,13 +299,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/18187_dbc6_6.jpg",
             "star": 4.7,
             "starCount": 762,
+            "students": 94567,
+            "courses": 22,
             "details": "Hi, I'm Evan Kimbrell. Thanks for checking out my course.  **My courses have been featured in Forbes, CNN, Entrepreneur Magazine, BusinessInsider, BuzzFeed, Mashable, TheNextWeb, The Daily Beast, & Techcrunch**.Currently, I'm the Founder and Director of Sprintkick, a full-service, referral-only digital agency based out of San Francisco. Over the past four years I've overseen the development and launch of over 100 web and mobile apps. Clients range from two-man bootstrapping startups to multibillion dollar Fortune 100s like Wal-Mart, Dick's Sporting Goods, and GNC. Prior to Sprintkick I worked as a VC for a new firm called Juvo Capital, based out of L.A. I spearheaded the firm's expansion into Silicon Valley and into the Consumer Web tech category.In the long long ago, I was a co-founder for an educational software startup called ScholarPRO that raised a ton of money and then spectacularly blew up (in the bad way). Before it exploded like the Death Star, I went through five tech incubators (yes, five): Tech Stars, Excelerate Labs, MassChallenge, Babson Venture Program, and Sparkseed. Hope you enjoy my courses! "
         }
     },
     {
         "key": "B01NBE6Y5D",
-        "category": "Modern JavaScript From The Beginning",
-        "title": "Learn and build projects with pure JavaScript (No frameworks or libraries)",
+        "title": "Modern JavaScript From The Beginning",
+        "subTitle": "Learn and build projects with pure JavaScript (No frameworks or libraries)",
         "img": "https://img-c.udemycdn.com/course/240x135/1463348_52a4_2.jpg",
         "free": 40,
         "requirements": [
@@ -309,13 +327,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/21681922_4513_5.jpg",
             "star": 4.4,
             "starCount": 222,
+            "students": 194567,
+            "courses": 52,
             "details": "Brad Traversy has been programming for around 12 years and teaching for almost 5 years. He is the owner of Traversy Media which is a successful web development YouTube channel and specializes in everything from HTML5 to front end frameworks like Angular as well as server side technologies like Node.js, PHP and Python. Brad has mastered explaining very complex topics in a simple manner that is very understandable. Invest in your knowledge by watching Brad's courses "
         }
     },
     {
         "key": "B01J42JPJG",
-        "category": "20 Web Projects With Vanilla JavaScript",
-        "title": "Build 20 mini frontend projects from scratch with HTML5, CSS & JavaScript (No frameworks or libraries)",
+        "title": "20 Web Projects With Vanilla JavaScript",
+        "subTitle": "Build 20 mini frontend projects from scratch with HTML5, CSS & JavaScript (No frameworks or libraries)",
         "img": "https://img-c.udemycdn.com/course/240x135/2782800_0b85.jpg",
         "free": 30,
         "requirements": [
@@ -337,13 +357,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/21681922_4513_5.jpg",
             "star": 4.6,
             "starCount": 982,
+            "students": 194567,
+            "courses": 52,
             "details": "Brad Traversy has been programming for around 12 years and teaching for almost 5 years. He is the owner of Traversy Media which is a successful web development YouTube channel and specializes in everything from HTML5 to front end frameworks like Angular as well as server side technologies like Node.js, PHP and Python. Brad has mastered explaining very complex topics in a simple manner that is very understandable. Invest in your knowledge by watching Brad's courses "
         }
     },
     {
         "key": "B01LD4MGY4",
-        "category": "50 Projects In 50 Days - HTML, CSS & JavaScript",
-        "title": "Sharpen your skills by building 50 quick, unique & fun mini projects",
+        "title": "50 Projects In 50 Days - HTML, CSS & JavaScript",
+        "subTitle": "Sharpen your skills by building 50 quick, unique & fun mini projects",
         "img": "https://img-c.udemycdn.com/course/240x135/3671332_b86a.jpg",
         "free": 20,
         "requirements": [
@@ -361,13 +383,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/21681922_4513_5.jpg",
             "star": 4.7,
             "starCount": 2122,
+            "students": 194567,
+            "courses": 52,
             "details": "Brad Traversy has been programming for around 12 years and teaching for almost 5 years. He is the owner of Traversy Media which is a successful web development YouTube channel and specializes in everything from HTML5 to front end frameworks like Angular as well as server side technologies like Node.js, PHP and Python. Brad has mastered explaining very complex topics in a simple manner that is very understandable. Invest in your knowledge by watching Brad's courses "
         }
     },
     {
         "key": "B01LD4MG5",
-        "category": "The Complete Cyber Security Course : Hackers Exposed!",
-        "title": "Volume 1 : Become a Cyber Security Specialist, Learn How to Stop Hackers, Prevent Hacking, Learn IT Security & INFOSEC",
+        "title": "The Complete Cyber Security Course : Hackers Exposed!",
+        "subTitle": "Volume 1 : Become a Cyber Security Specialist, Learn How to Stop Hackers, Prevent Hacking, Learn IT Security & INFOSEC",
         "img": "https://img-c.udemycdn.com/course/240x135/614772_233b_9.jpg",
         "free": 100,
         "requirements": [
@@ -391,13 +415,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/15858120_4fac.jpg",
             "star": 4.7,
             "starCount": 2654,
+            "students": 294567,
+            "courses": 32,
             "details": "Winner of the AI 'Cyber Security Educator of the Year 2020' award.Nathan has over 24 years experience in cyber security where I have advised  some of largest companies in the world, assuring security on  multi-million and multi-billion pound projects. He is the CEO of Station X a cyber security consultancy. More recently he acted as  the lead security consultant on a number of the UKs mobile banking and  payment solutions helping secure to date over £71Bn in transactions. My clients have included; BP, ExxonMobil, Shell, Vodafone, VISA, T-mobile, GSK, COOP Banking Group, Royal Bank of  Scotland, Natwest, Yorkshire bank, BG Group, BT, London 2012. Over the years he have spoken at a number of security conferences"
         }
     },
     {
         "key": "B01LD4MG51",
-        "category": "The Complete Networking Fundamentals Course. ",
-        "title": "Learn about networking and start your journey to Cisco 200-301 Certification.",
+        "title": "The Complete Networking Fundamentals Course. ",
+        "subTitle": "Learn about networking and start your journey to Cisco 200-301 Certification.",
         "img": "https://img-c.udemycdn.com/course/240x135/751094_fb27_2.jpg",
         "free": 50,
         "requirements": [
@@ -423,13 +449,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/794308_b2a6_4.jpg",
             "star": 4.3,
             "starCount": 2322,
+            "students": 24567,
+            "courses": 42,
             "details": "David Bombal (CCIE  #11023 Emeritus) passed his Cisco Certified Internetwork Expert Routing and Switching exam in January 2003 and is one of a small percentage of Cisco Engineers that pass their CCIE labs on their first attempt. David qualified as a  Cisco Certified Systems Instructor (CCSI #22787) many years ago! He has been training Cisco  courses for over 15 years and has delivered instructor led courses in various  countries around the world covering a wide range of Cisco topics from CCNA to  CCIE. David is very active on social media and has over 500,000 YouTube subscribers and has posted over 1,000 free videos."
         }
     },
     {
         "key": "B01LD4MG52",
-        "category": "Wireshark: Packet Analysis and Ethical Hacking: Core Skills",
-        "title": "From basic to advanced network analysis using Wireshark! Ethical Hacking using Kali Linux: Passwords, Security, Protocol",
+        "title": "Wireshark: Packet Analysis and Ethical Hacking: Core Skills",
+        "subTitle": "From basic to advanced network analysis using Wireshark! Ethical Hacking using Kali Linux: Passwords, Security, Protocol",
         "img": "https://img-c.udemycdn.com/course/240x135/2351336_fb8c_6.jpg",
         "free": 60,
         "requirements": [
@@ -450,13 +478,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/794308_b2a6_4.jpg",
             "star": 4.6,
             "starCount": 1222,
+            "students": 24567,
+            "courses": 42,
             "details": "David Bombal (CCIE  #11023 Emeritus) passed his Cisco Certified Internetwork Expert Routing and Switching exam in January 2003 and is one of a small percentage of Cisco Engineers that pass their CCIE labs on their first attempt. David qualified as a  Cisco Certified Systems Instructor (CCSI #22787) many years ago! He has been training Cisco  courses for over 15 years and has delivered instructor led courses in various  countries around the world covering a wide range of Cisco topics from CCNA to  CCIE. David is very active on social media and has over 500,000 YouTube subscribers and has posted over 1,000 free videos."
         }
     },
     {
         "key": "B01LD4MG54",
-        "category": "Complete CCNP ENCOR (350-401) Master Class",
-        "title": "Get ready to CRUSH your Cisco CCNP ENCOR (350-401) exam! This course help prepare you for your CCNP and CCIE certs.",
+        "title": "Complete CCNP ENCOR (350-401) Master Class",
+        "subTitle": "Get ready to CRUSH your Cisco CCNP ENCOR (350-401) exam! This course help prepare you for your CCNP and CCIE certs.",
         "img": "https://img-c.udemycdn.com/course/240x135/4187754_6a2b_4.jpg",
         "free": 50,
         "requirements": [
@@ -479,13 +509,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/794308_b2a6_4.jpg",
             "star": 4,
             "starCount": 282,
+            "students": 24567,
+            "courses": 42,
             "details": "David Bombal (CCIE  #11023 Emeritus) passed his Cisco Certified Internetwork Expert Routing and Switching exam in January 2003 and is one of a small percentage of Cisco Engineers that pass their CCIE labs on their first attempt. David qualified as a  Cisco Certified Systems Instructor (CCSI #22787) many years ago! He has been training Cisco  courses for over 15 years and has delivered instructor led courses in various  countries around the world covering a wide range of Cisco topics from CCNA to  CCIE. David is very active on social media and has over 500,000 YouTube subscribers and has posted over 1,000 free videos."
         }
     },
     {
         "key": "B01LD4MG6",
-        "category": "Adobe Photoshop CC – Essentials Training Course",
-        "title": "This Adobe Photoshop Essentials course will teach you Photoshop Retouching as well as Photoshop for graphic design.",
+        "title": "Adobe Photoshop CC – Essentials Training Course",
+        "subTitle": "This Adobe Photoshop Essentials course will teach you Photoshop Retouching as well as Photoshop for graphic design.",
         "img": "https://img-c.udemycdn.com/course/240x135/1747782_399b_2.jpg",
         "free": 20,
         "requirements": [
@@ -524,13 +556,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/11614232_b0fc.jpg",
             "star": 4.7,
             "starCount": 2342,
+            "students": 924567,
+            "courses": 66,
             "details": "Sharing is who I am, and teaching is where I am at my best, because I've been on both sides of that equation, and getting to deliver useful training is my meaningful way to be a part of the creative community.I've spent a long time watching others learn, and teach, to refine how I work with you to be efficient, useful and, most importantly, memorable. I want you to carry what I've shown you into a bright future.I have a wife (a lovely Irish girl) and kids. I have lived and worked in many places (as Kiwis tend to do) – but most of my 14+ years of creating and teaching has had one overriding theme: bringing others along for the ride as we all try to change the world with our stories, our labours of love and our art."
         }
     },
     {
         "key": "B01LD4MG7",
-        "category": "User Experience Design Essentials - Adobe XD UI UX Design",
-        "title": "Use XD to get a job in UI Design, User Interface, User Experience design, UX design & Web Design",
+        "title": "User Experience Design Essentials - Adobe XD UI UX Design",
+        "subTitle": "Use XD to get a job in UI Design, User Interface, User Experience design, UX design & Web Design",
         "img": "https://img-c.udemycdn.com/course/240x135/1452908_8741_3.jpg",
         "free": 50,
         "requirements": [
@@ -566,13 +600,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/11614232_b0fc.jpg",
             "star": 4.3,
             "starCount": 892,
+            "students": 924567,
+            "courses": 66,
             "details": "Sharing is who I am, and teaching is where I am at my best, because I've been on both sides of that equation, and getting to deliver useful training is my meaningful way to be a part of the creative community.I've spent a long time watching others learn, and teach, to refine how I work with you to be efficient, useful and, most importantly, memorable. I want you to carry what I've shown you into a bright future.I have a wife (a lovely Irish girl) and kids. I have lived and worked in many places (as Kiwis tend to do) – but most of my 14+ years of creating and teaching has had one overriding theme: bringing others along for the ride as we all try to change the world with our stories, our labours of love and our art."
         }
     },
     {
         "key": "B01LD4MG8",
-        "category": "Master SQL For Data Science",
-        "title": "Become a SQL query wizard and never be afraid to look at a large SQL query again!",
+        "title": "Master SQL For Data Science",
+        "subTitle": "Become a SQL query wizard and never be afraid to look at a large SQL query again!",
         "img": "https://img-c.udemycdn.com/course/240x135/1245422_02f9_2.jpg",
         "free": 30,
         "requirements": [
@@ -591,13 +627,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/7315098_7c17_3.jpg",
             "star": 4.5,
             "starCount": 422,
+            "students": 9567,
+            "courses": 16,
             "details": "Imtiaz is an award winning Udemy instructor who is highly experienced in big data technologies and enterprise software architectures. Imtiaz has spent a considerable amount of time building financial software on Wall St. and worked with companies like S&P, Goldman Sachs, AOL and JP Morgan along with helping various startups solve mission critical software problems. In his 13+ years of experience, Imtiaz has also taught software development in programming languages like Java, C++, Python, PL/SQL, Ruby and Javascript. He's the founder of Job Ready Programmer - an online programming school that prepares students of all backgrounds to become professional job-ready software developers through real-world programming courses."
         }
     },
     {
         "key": "B01LD4MG9",
-        "category": "The Complete Oracle SQL Certification Course",
-        "title": "Don't Just Learn the SQL Language, Become Job-Ready and Launch Your Career as a Certified Oracle SQL Developer!",
+        "title": "The Complete Oracle SQL Certification Course",
+        "subTitle": "Don't Just Learn the SQL Language, Become Job-Ready and Launch Your Career as a Certified Oracle SQL Developer!",
         "img": "https://img-c.udemycdn.com/course/240x135/866196_be1d.jpg",
         "free": 40,
         "requirements": [
@@ -618,13 +656,15 @@
             "img": "https://img-c.udemycdn.com/user/200_H/7315098_7c17_3.jpg",
             "star": 4.5,
             "starCount": 2342,
+            "students": 9567,
+            "courses": 16,
             "details": "Imtiaz is an award winning Udemy instructor who is highly experienced in big data technologies and enterprise software architectures. Imtiaz has spent a considerable amount of time building financial software on Wall St. and worked with companies like S&P, Goldman Sachs, AOL and JP Morgan along with helping various startups solve mission critical software problems. In his 13+ years of experience, Imtiaz has also taught software development in programming languages like Java, C++, Python, PL/SQL, Ruby and Javascript. He's the founder of Job Ready Programmer - an online programming school that prepares students of all backgrounds to become professional job-ready software developers through real-world programming courses."
         }
     },
     {
         "key": "B01LD4MG10",
-        "category": "The Complete Java Certification Course",
-        "title": "Become a confident industry ready core Java developer and get certified as a Java professional!",
+        "title": "The Complete Java Certification Course",
+        "subTitle": "Become a confident industry ready core Java developer and get certified as a Java professional!",
         "img": "https://img-c.udemycdn.com/course/240x135/827692_91ad_2.jpg",
         "free": 50,
         "requirements": [
@@ -644,6 +684,8 @@
             "img": "https://img-c.udemycdn.com/user/200_H/7315098_7c17_3.jpg",
             "star": 4.5,
             "starCount": 2312,
+            "students": 9567,
+            "courses": 16,
             "details": "Imtiaz is an award winning Udemy instructor who is highly experienced in big data technologies and enterprise software architectures. Imtiaz has spent a considerable amount of time building financial software on Wall St. and worked with companies like S&P, Goldman Sachs, AOL and JP Morgan along with helping various startups solve mission critical software problems. In his 13+ years of experience, Imtiaz has also taught software development in programming languages like Java, C++, Python, PL/SQL, Ruby and Javascript. He's the founder of Job Ready Programmer - an online programming school that prepares students of all backgrounds to become professional job-ready software developers through real-world programming courses."
         }
     }

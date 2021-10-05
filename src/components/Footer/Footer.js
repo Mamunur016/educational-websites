@@ -29,10 +29,10 @@ const Footer = () => {
                     <Col xs={6} md={3}>
                         <h4>
                             Learning</h4>
-                        <p><Link className='nav-item-footer'>Project Management</Link></p>
-                        <p><Link className='nav-item-footer'>WordPress Development</Link></p>
-                        <p><Link className='nav-item-footer'>Business Strategy</Link></p>
-                        <p><Link className='nav-item-footer'>Software Development</Link></p>
+                        <p><Link to='' className='nav-item-footer'>Project Management</Link></p>
+                        <p><Link to='' className='nav-item-footer'>WordPress Development</Link></p>
+                        <p><Link to='' className='nav-item-footer'>Business Strategy</Link></p>
+                        <p><Link to='' className='nav-item-footer'>Software Development</Link></p>
 
                     </Col>
                     <Col xs={6} md={3}>
@@ -43,7 +43,7 @@ const Footer = () => {
                             House 82, Road 10/1, Block D, Niketan, Gulshan 1, Dhaka - 1212.
                         </p>
                         <p>+91 458 654 528</p>
-                        <p>gostudy@gmail.com</p>
+                        <Link to='' className='nav-item-footer'> <p>gostudy@gmail.com</p></Link>
                     </Col>
                 </Row>
                 <hr />

@@ -18,7 +18,7 @@ const About = () => {
                 <Container>
                     <Row>
                         <Col md={6}>
-                            <Row xs={1} md={3} className="g-3">
+                            <Row xs={2} md={3} className="g-3">
                                 <Col >
                                     <Image src='https://bohubrihi.com/wp-content/uploads/2018/03/Tulie-150x150.jpg' rounded fluid></Image>
                                 </Col>

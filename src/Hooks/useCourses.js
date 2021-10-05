@@ -8,6 +8,6 @@ const useCourses = () => {
             .then(res => res.json())
             .then(data => setCourses(data))
     }, []);
-    return [courses];
+    return [courses, setCourses];
 }
 export default useCourses;
