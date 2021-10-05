@@ -1,31 +1,35 @@
 import React, { useEffect, useState } from 'react';
 import { Container, Image } from 'react-bootstrap';
 import { useParams } from 'react-router';
+
 import useCourses from '../../Hooks/useCourses';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 import { faUser, faStar, faPlay, faBath, faUserGraduate, faUserTag, faPlayCircle } from '@fortawesome/free-solid-svg-icons';
 import './CourseDetails.css'
+import { Link } from 'react-router-dom';
 
 const CourseDetails = () => {
 
-    // const [display, setDisplay] = useState();
-    // console.log(servicesKey);
-    // const parms = useParams();
-    // console.log(parms);
+
     const { servicesKey } = useParams();
     const [courseDetails, setCourseDetails] = useState([]);
-
     // const [courses, setCourses] = useCourses();
+
     const [courses, setCourses] = useState([]);
 
+
+
     useEffect(() => {
-        fetch('./courses.JSON')
+
+        fetch('https://api.jsonbin.io/b/615c697d9548541c29be5818')
             .then(res => res.json())
             .then(data => setCourses(data))
-    }, [servicesKey]);
+    }, []);
+
+    // console.log(courses);
 
 
-    console.log(courses);
     useEffect(() => {
 
         for (const course of courses) {
@@ -34,10 +38,11 @@ const CourseDetails = () => {
                 setCourseDetails(course);
             }
         }
+
     }, [courses]);
 
 
-    console.log(courseDetails.key);
+    // console.log(courseDetails.key);
     const { title, subTitle, img, free, instructor, learn, requirements } = courseDetails;
 
 
@@ -111,6 +116,12 @@ const CourseDetails = () => {
                         <p><b>Details:</b>{instructor?.details}</p>
 
                     </div>
+                </div>
+
+                <div className="pt-5 pb-5 text-center">
+                    <Link to='/services'>
+                        <div className="btn btn-success ">See All Courses</div>
+                    </Link>
                 </div>
 
             </Container>

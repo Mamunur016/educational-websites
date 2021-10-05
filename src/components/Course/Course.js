@@ -43,8 +43,9 @@ const Course = (props) => {
                             onClick={() => props.handleAddToCart(props.course)}
                             className="btn-regular me-5"
                         ><FontAwesomeIcon icon={faShoppingCart} /> add to cart</button>
-                        {/* {`/services/${key}`} */}
-                        <Link to='#' >
+
+
+                        <Link to={`/course/${key}`}>
                             <button className="btn btn-success ps-3 pe-2">Details</button>
                         </Link>
 

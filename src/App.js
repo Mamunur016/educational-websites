@@ -43,10 +43,10 @@ function App() {
           <Route path='/thumbs'>
             <Thumbs></Thumbs>
           </Route>
-          {/* <Route exact path='/services/:servicesKey'>
+          <Route exact path='/course/:servicesKey'>
             <CourseDetails></CourseDetails>
-          </Route> */}
-          <Route path=''>
+          </Route> *
+          <Route path='*'>
             <NotFound></NotFound>
           </Route>
         </Switch>

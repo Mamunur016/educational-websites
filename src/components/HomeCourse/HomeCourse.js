@@ -8,6 +8,7 @@ const HomeCourse = (props) => {
     const { title, subTitle, img, free, instructor, key } = props.course;
     const { star, starCount } = instructor;
 
+
     return (
         <div className=''>
 
@@ -37,8 +38,8 @@ const HomeCourse = (props) => {
                     <Card.Footer className='border-0 bg-white text-center '>
 
 
-                        {/* to={`/services/${key}`} */}
-                        <Link to='' >
+
+                        <Link to={`/course/${key}`} >
                             <button className="btn btn-success ps-5 pe-5">Details</button>
                         </Link>
 
